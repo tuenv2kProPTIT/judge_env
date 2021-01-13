@@ -1,0 +1,11 @@
+{
+    "checker": "checker.cpp",
+    "input_validator": "input_validator.cpp",
+    "statement": "statement.md",
+    "solution": "solution.cpp",
+    "solution_language": "cpp",
+    "inputs": "inputs",
+    "outputs": "outputs",
+    "time": 1,
+    "memory": 262144
+}

@@ -1,0 +1,11 @@
+version: "3.8"
+services: 
+    judge:
+        build: ./core_judge
+        volumes: 
+            - ./core_judge:/opt
+        privileged: true
+        tty: true
+        
+
+        
